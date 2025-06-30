@@ -1,0 +1,2 @@
+# Printf.in
+test1
